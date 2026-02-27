@@ -1,2 +1,2 @@
 def favourite_fruits():
-    return ["mango", "passionfruit"]
+    return ["blueberries", "tomatoes", "mango", "passionfruit"]
